@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yinquanbin.github.io</id>
-    <title>Gridea</title>
-    <updated>2019-09-02T06:33:58.413Z</updated>
+    <title>CameraBin</title>
+    <updated>2019-09-02T06:38:55.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yinquanbin.github.io"/>
     <link rel="self" href="https://yinquanbin.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>好记性不如烂笔头</subtitle>
     <logo>https://yinquanbin.github.io/images/avatar.png</logo>
     <icon>https://yinquanbin.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, CameraBin</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://yinquanbin.github.io/post/hello-gridea</id>
