@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yinquanbin.github.io</id>
     <title>CameraBin</title>
-    <updated>2019-09-02T06:39:35.982Z</updated>
+    <updated>2019-09-02T08:28:01.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yinquanbin.github.io"/>
     <link rel="self" href="https://yinquanbin.github.io/atom.xml"/>
@@ -10,6 +10,23 @@
     <logo>https://yinquanbin.github.io/images/avatar.png</logo>
     <icon>https://yinquanbin.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, CameraBin</rights>
+    <entry>
+        <title type="html"><![CDATA[test]]></title>
+        <id>https://yinquanbin.github.io/post/test</id>
+        <link href="https://yinquanbin.github.io/post/test">
+        </link>
+        <updated>2019-09-02T08:20:59.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://yinquanbin.github.io/post-images/1567412826463.png" alt=""><br>
+上面是图片</p>
+<pre><code>#include &lt;stdio.h&gt;
+
+int main(void)
+{
+	return 0;
+}
+</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://yinquanbin.github.io/post/hello-gridea</id>
