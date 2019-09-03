@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yinquanbin.github.io</id>
     <title>CameraBin</title>
-    <updated>2019-09-02T08:28:01.839Z</updated>
+    <updated>2019-09-03T03:23:50.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yinquanbin.github.io"/>
     <link rel="self" href="https://yinquanbin.github.io/atom.xml"/>
@@ -10,6 +10,29 @@
     <logo>https://yinquanbin.github.io/images/avatar.png</logo>
     <icon>https://yinquanbin.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, CameraBin</rights>
+    <entry>
+        <title type="html"><![CDATA[破土--初学Camera]]></title>
+        <id>https://yinquanbin.github.io/post/po-tu-chu-xue-camera</id>
+        <link href="https://yinquanbin.github.io/post/po-tu-chu-xue-camera">
+        </link>
+        <updated>2019-09-03T03:11:51.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="camera方向">Camera方向</h1>
+<ol>
+<li>Camera驱动调试（kernel层）---C语言</li>
+<li>CameraHAL层调试开发---C++（涉及到JNI）</li>
+<li>Camera应用层开发---Java</li>
+</ol>
+<h1 id="如何学习camera">如何学习Camera</h1>
+<ol>
+<li>看文档<br>
+看高通文档和丰富的博客，可以学习到大量知识，也需要自己总结</li>
+<li>看代码<br>
+理清思路和上下级调用关系，把握好整体框架</li>
+<li>做项目<br>
+在项目中将所学知识灵活运用，才是学习Camera的真正目的</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[test]]></title>
         <id>https://yinquanbin.github.io/post/test</id>
